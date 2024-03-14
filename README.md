@@ -42,7 +42,9 @@ RegisterNumber:212223040219.
 
 **RTL realization**
 
-![image](https://github.com/swathisiva212/BOOLEAN_FUNCTION_MINIMIZATION/assets/155249892/5a0ab44d-a21e-486e-8b7b-e12d20dca9fe)
+![image](https://github.com/swathisiva212/BOOLEAN_FUNCTION_MINIMIZATION/assets/155249892/c74bc53a-306c-44a8-b2f3-d5c0bf2b024e)
+
+
 
 **TRUTH TABLE:**
 ![image](https://github.com/swathisiva212/BOOLEAN_FUNCTION_MINIMIZATION/assets/155249892/43721346-360a-4fe6-98cf-5cea3ed0ea84)
